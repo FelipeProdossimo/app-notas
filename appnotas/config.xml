@@ -12,6 +12,9 @@
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="SplashMaintainAspectRatio" value="true" />
 
+    <!--<preference name="Fullscreen" value="true" />-->
+    <preference name="StatusBarBackgroundColor" value="#FFF333" />
+
     <content src="index.html" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
